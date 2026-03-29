@@ -94,7 +94,3 @@ Final evaluation on test dataset:
 - **Precision:** 78.57%  
 - **Recall:** 60.00%  
 - **F1-Score:** 68.04%  
-
-## ⭐ Support
-
-If you like this project, please give it a ⭐ on GitHub!
