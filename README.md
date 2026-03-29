@@ -95,8 +95,6 @@ Final evaluation on test dataset:
 - **Recall:** 60.00%  
 - **F1-Score:** 68.04%  
 
-The model achieves a good balance between precision and recall for medical risk prediction.
-
 ## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub!
